@@ -1,5 +1,2 @@
 # Ignore .env file
 .env
-
-# Ignore Note_Books folder
-Note_Books/
