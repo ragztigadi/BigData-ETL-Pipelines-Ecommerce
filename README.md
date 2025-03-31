@@ -15,3 +15,7 @@ Data ETL pipeline for Brazilian e-commerce data. Implements data ingestion, tran
 # Building Pipelines on AZURE Cloud:
 
 ![Screenshot (13)](https://github.com/user-attachments/assets/79859270-2edf-477b-a7ee-a820ada6341b)
+
+
+# Medallion Architecture - Data_Bricks
+![alt text](lakehouse-medallion-architecture.jpeg)
