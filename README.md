@@ -39,6 +39,7 @@ The pipeline leverages the Delta Lakehouse Medallion Architecture on Databricks 
    - High-quality, ready-for-analysis data.
 
 ![Medallion Architecture](lakehouse-medallion-architecture.jpeg)
+![Azure Pipeline](Screenshot%20(23).png)
 
 ### Data Sources
 - **MySQL-DB-Data:**
@@ -57,7 +58,7 @@ The ETL pipeline is hosted and orchestrated using Azure services:
 - **Azure Databricks:** Data transformation using Spark.
 - **Azure Synapse:** Data aggregation and visualization.
 
-![Azure Pipeline](Screenshot%20(23).png)
+![alt text](<Screenshot (13).png>)
 
 ### Final Data Transformation View
 - The final view of the data pipeline shows the processed data in the Gold Layer, ready for analysis and visualization.
